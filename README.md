@@ -7,4 +7,4 @@
 
 <h2>تماس با من:</h2>
 <a href="https://www.instagram.com/amirmahdi_slz"><img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/instagram_2111463.png?raw=true"></a>
-<a href="https://twitter.com/@amirmahdis28852">
+<a href="https://twitter.com/@amirmahdis28852"><img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/twitter.png?raw=true"></a>
