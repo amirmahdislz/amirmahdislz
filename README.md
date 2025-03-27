@@ -13,3 +13,7 @@
 <img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/bar.png?raw=true" width="50px" height="16px">
 <h4>Learning English up to advanced lvl 60%</h4>
 <img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/bar.png?raw=true" width="300px" height="16px">
+
+<h2>الان در حال انجام این کار ها هستم🌞</h2>
+<h4>⭐یاد گیری زبان انگلیسی</h4>
+<h4>⭐یاد گیری فرانت سایت</h4>
