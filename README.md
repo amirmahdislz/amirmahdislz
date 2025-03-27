@@ -10,4 +10,4 @@
 <a href="https://twitter.com/@amirmahdis28852"><img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/twitter.png?raw=true"></a>
 <h2>در حال حاضر دارم اینطور در برنامه های ایندم پیشروی میکنم🚀</h2>
 <h4>Front cite development 10%</h4>
-<img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/bar%20-%20Copy.png?raw=true">
+<img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/bar.png?raw=true" weight="50px" hight="16px">
