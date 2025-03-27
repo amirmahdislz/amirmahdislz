@@ -12,3 +12,5 @@
 <h4>Front cite development 10%</h4>
 <img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/bar.png?raw=true" width="50px" height="16px">
 <br>
+<h4>Learning English up to advanced lvl 60%</h4>
+<img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/images/bar.png?raw=true" width="300px" height="16px">
