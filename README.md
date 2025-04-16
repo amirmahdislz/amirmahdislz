@@ -15,5 +15,4 @@
 <h3 align="left">Programing🖥 | 30%</h3>
 <img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/image/bar%20-%20Copy%20(2).png">
 <h3 align="left">English👨🏻‍🎓 | 70%</h3>
-<img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/image/bar.png?raw=true">
-
+<img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/image/bar.png?raw=true" width="350px">
