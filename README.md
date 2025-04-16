@@ -14,6 +14,6 @@
 <h2>در حال حاضر دارم اینارو یاد میگیرم🌱</h2>
 <h3 align="left">Programing🖥 | 30%</h3>
 <img src="https://github.com/amirmahdislz/amirmahdislz/blob/main/image/bar%20-%20Copy%20(2).png">
-
+<h3 align="left">English👨🏻‍🎓 | 70%</h3>
 
 
